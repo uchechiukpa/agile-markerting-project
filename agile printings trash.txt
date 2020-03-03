@@ -1,0 +1,48 @@
+<div class="w-full max-w-4xl mx-auto d-flex">
+          <div class="content-container mx-auto">
+          <div class="h-24 w-full flex justify-center">
+          <div class="flex w-full pt-6 pb-6">
+          <div class="flex w-full items-center">
+          <a href="/">
+          <img src='../Images/logo printing' alt='Agile Printings logo' class='img-responsive'/> </span>
+          <form method="get" action="/designs/search" class="pl-4 pr-2 hidden md:flex" class="col-sm-10">
+          <input class="h-8 max-w-xs px-3 py-2 focus:bg-white bg-grey-lightest
+                                  text-grey-darkest text-sm border-tivo-cyan border border-1 focus:shadow" name="query" style="width: 400px" />
+          <button class="h-8 px-4 py-2 bg-tivo-cyan text-white text-xs mr-2" class="col-sm-5">
+          Search
+          </button>
+          <a href="/stores" class="h-8 px-4 py-2 bg-tivo-magenta text-white text-xs no-underline">
+          Marketplace
+          </a>
+          </form>
+          <div class="flex justify-end items-center w-full md:w-2/5">
+          <div class="flex items-center">
+          <a href="/members/login" class="flex">
+          <span>Sign In</span>&nbsp;
+          <img src='https://res.cloudinary.com/printivo/image/upload/q_auto:eco/v1/printivo_s3/p3-demo/icons/account.svg' alt='Sign In' class='img-responsive' source='https://printivo.s3.amazonaws.com' class="col-sm-2" /> </a>
+          <div class="h-8 w-px bg-grey mx-4"></div>
+          <a class="relative" href="/orders/cart">
+            <i class="fas fa-cart-arrow-down" alt='Cart' class='ml-1' source='https://printivo.s3.amazonaws.com' width='31' ></i> <span class="p-1 rounded-full text-white font-bold bg-tivo-magenta absolute" style="font-size: 10px; top: -8px; left: 23px;">
+          0 </span>
+          </a>
+           </div>
+          </div>
+          </div>
+          </div>
+          </div>
+          </div>
+          </div>
+          justify-content-around
+         style="font-size: 10px;  top:1.5rem; right: 3rem;"
+         main-nav-list
+         class=" block h-12 hover:no-underline px-8 py-4 no-underline text-white hover:bg-black hover:text-white text-sm"
+         
+         class=" block h-12 hover:no-underline px-8 py-4 no-underline text-white hover:bg-black hover:text-white text-sm"
+    
+    
+    d-flex flex-wrap list-content relative main-nav-list
+    
+
+    d-flex justify-content-center align-items-center
+    class="block px-4 lg:px-0 md:flex md:flex-col md:items-center lg:flex-row lg:flex-wrap pb-8 lg:pb-12 text-sm text-grey-darkest justify-content-between" style="width:95%"
+    </heaclass=" block h-12 hover:no-underline px-8 py-4 no-underline text-white hover:bg-black hover:text-white text-sm"der>
